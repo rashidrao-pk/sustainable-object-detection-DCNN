@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article."
+title: "Sustainable Object Recognition using VGG19 and Inception-v3 Feature Fusion"
+type: software
+
+authors:
+  - family-names: "Rashid"
+    given-names: "Muhammad"
+  - family-names: "Khan"
+    given-names: "Muhammad Attique"
+  - family-names: "Alhaisoni"
+    given-names: "Majed"
+  - family-names: "Wang"
+    given-names: "Shui-Hua"
+  - family-names: "Naqvi"
+    given-names: "Syed Rameez"
+  - family-names: "Rehman"
+    given-names: "Amjad"
+  - family-names: "Saba"
+    given-names: "Tanzila"
+
+repository-code: "https://github.com/rashidrao-pk/sustainable-object-detection-DCNN"
+
+keywords:
+  - object recognition
+  - computer vision
+  - deep learning
+  - feature fusion
+  - vgg19
+  - inception-v3
+  - feature selection
+  - matlab
+
+license: "MIT"
+
+preferred-citation:
+  type: article
+  title: "A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection"
+  authors:
+    - family-names: "Rashid"
+      given-names: "Muhammad"
+    - family-names: "Khan"
+      given-names: "Muhammad Attique"
+    - family-names: "Alhaisoni"
+      given-names: "Majed"
+    - family-names: "Wang"
+      given-names: "Shui-Hua"
+    - family-names: "Naqvi"
+      given-names: "Syed Rameez"
+    - family-names: "Rehman"
+      given-names: "Amjad"
+    - family-names: "Saba"
+      given-names: "Tanzila"
+  journal: "Sustainability"
+  volume: 12
+  number: 12
+  pages: 5037
+  year: 2020
+  publisher: "MDPI"
+  doi: "10.3390/su12125037"
