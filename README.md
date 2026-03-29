@@ -150,29 +150,6 @@ Representative figures from the original archive are organized in `assets/`.
 6. Evaluate the saved results.
 
 
-
-## 📊 Results
-
-### Quantitative Performance
-
-| Dataset        | Accuracy (%) | Precision (%) | Recall (%) | F1 Score (%) |
-|----------------|-------------|--------------|-----------|-------------|
-| Caltech-101    | 92.4        | 91.8         | 90.6      | 91.2        |
-| PASCAL 3D+     | 89.7        | 88.9         | 87.5      | 88.2        |
-| Custom 3D      | 94.1        | 93.5         | 92.8      | 93.1        |
-
-> NOTE: Replace values with actual experimental results if available.
-
----
-
-### ⏱️ Computational Performance
-
-| Model Configuration         | Feature Size | Processing Time (s/image) |
-|---------------------------|-------------|--------------------------|
-| VGG19 only                | 4096        | 0.45                     |
-| Inception-v3 only         | 2048        | 0.38                     |
-| Fusion (VGG + Inception)  | 6144        | 0.62                     |
-
 ## Research Positioning
 
 This repository reflects earlier work on **hybrid deep feature fusion** for object recognition. It can serve as:
